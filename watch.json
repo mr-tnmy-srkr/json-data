@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Digital",
+      "price":  200
+    },
+    {
+      "id": 2,
+      "name": "Analog",
+      "price":  300
+    },
+    {
+      "id": 3,
+      "name": "Digital",
+      "price":  200
+    },
+    {
+      "id": 4,
+      "name": "Analog",
+      "price":  300
+    },
+    {
+      "id": 5,
+      "name": "Digital",
+      "price":  200
+    },
+    {
+      "id": 6,
+      "name": "Analog",
+      "price":  300
+    },
+    {
+      "id": 7,
+      "name": "Digital",
+      "price":  200
+    },
+    {
+      "id": 8,
+      "name": "Analog",
+      "price":  300
+    },
+    {
+      "id": 9,
+      "name": "Digital",
+      "price":  200
+    },
+    {
+      "id": 10,
+      "name": "Analog",
+      "price":  300
+    }
+  ]
+  
